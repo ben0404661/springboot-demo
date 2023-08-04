@@ -9,6 +9,6 @@ public class K8SController {
     @RequestMapping("/k8s")
     public String k8s(){
         System.out.println("hello,my jenkins.");
-        return "hello K8s <br/>111222 ";
+        return "hello K8s <br/>111222000000000000000";
     }
 }
